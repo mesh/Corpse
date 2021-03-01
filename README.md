@@ -2,7 +2,6 @@
 Scythe Forums Administrator/Developer
 
 Hello! I am corpse! The Scythe Marketplace owner and developer with @disk!
---
 
 Learning Languages:
 --
