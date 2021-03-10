@@ -1,4 +1,4 @@
-# Corpse
+# Beerus
 Hello! I am the Scythe Forums Administator/Developer with @disk
 
 Learning Languages:
@@ -11,10 +11,7 @@ HTML/CSS
 
 Need to contact me?
 --
-Discord: corpse#0003
+Discord: beerus#0001
 
-[Twitter](https://twitter.com/corps_es)
-
-[Instagram](https://instagram.com/corps.es)
 
 
