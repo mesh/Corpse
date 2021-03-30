@@ -1,4 +1,4 @@
-# Beerus
+# Hit
 Hello! I am the Scythe Forums Administator/Developer with @disk
 
 Learning Languages:
@@ -11,7 +11,7 @@ HTML/CSS
 
 Need to contact me?
 --
-Discord: beerus#0001
+Discord: Hit#0001
 
 
 
