@@ -1,17 +1,15 @@
-# Hit
+# hit
 Hello! I am the Scythe Forums Administator/Developer with @disk
 
 Learning Languages:
 --
 
-JavaScript/Typescript
+Java
 C/C++
-HTML/CSS
-
 
 Need to contact me?
 --
-Discord: Hit#0001
+Discord: hit#7777
 
 
 
