@@ -9,7 +9,7 @@ C/C++
 
 Need to contact me?
 --
-Discord: hit#1337
+Discord: hit#1234
 
 
 
