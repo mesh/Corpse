@@ -19,4 +19,9 @@ Discord: forever#1234
 
 My Stats:
 -------------------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesh&show_icons=true&theme=radical)
+
+<a href="https://github.com/mesh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mesh&repo=github-readme-stats" />
+</a>
+
+![forever's stats](https://github-readme-stats.vercel.app/api?username=mesh&show_icons=true&theme=radical)
