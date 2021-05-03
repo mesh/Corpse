@@ -22,4 +22,4 @@ Discord: forever#1234
 
 My Stats:
 -------------------------
-[![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mesh/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=mesh)](https://github.com/mesh/github-readme-stats)
