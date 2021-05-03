@@ -1,5 +1,6 @@
-                                     ![Views](https://komarev.com/ghpvc/?username=mesh)
-
+<p align="center">
+    ![Views](https://komarev.com/ghpvc/?username=mesh)
+</p>
 
 # forever
 Hello! 
