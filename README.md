@@ -9,11 +9,9 @@ Languages:
 Learning Languages:
 --
 * Go
-*HTML/CSS
+* HTML/CSS
 
 Need to contact me?
 --
 Discord: forever#1234
-
-
 
