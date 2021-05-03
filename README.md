@@ -17,9 +17,8 @@ Need to contact me?
 --
 Discord: forever#1234
 
+
 My Stats:
 -------------------------
 
 ![forever's stats](https://github-readme-stats.vercel.app/api?username=mesh&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesh&layout=compact)](https://github.com/mesh/forever)
