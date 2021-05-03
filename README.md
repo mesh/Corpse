@@ -1,4 +1,4 @@
-# hit
+# forever
 Hello! I am the Scythe Forums Administator/Developer with @disk
 
 Learning Languages:
@@ -9,7 +9,7 @@ C/C++
 
 Need to contact me?
 --
-Discord: hit#1234
+Discord: forever#1234
 
 
 
