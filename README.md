@@ -1,6 +1,5 @@
-<p align="center">
-    ![Views](https://komarev.com/ghpvc/?username=mesh)
-</p>
+![Views](https://komarev.com/ghpvc/?username=mesh)
+[Github Readme Stats](https://github.com/mesh/github-readme-stats)
 
 # forever
 Hello! 
@@ -21,3 +20,6 @@ Need to contact me?
 --
 Discord: forever#1234
 
+My Stats:
+-------------------------
+[![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mesh/github-readme-stats)
