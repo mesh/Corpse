@@ -1,9 +1,11 @@
+![Profile Views:](https://rushter.com/counter.svg)
+
 # forever
 Hello! 
 --
 I am the Scythe Forums Administator/Developer with [@disk](https://github.com.disk) and [@ender](https://github.com/ender)
 
-Languages:
+Skills:
 --
 * C/C++
 * JS
