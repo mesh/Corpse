@@ -1,5 +1,4 @@
 ![Views](https://komarev.com/ghpvc/?username=mesh)
-[Github Readme Stats](https://github.com/mesh/github-readme-stats)
 
 # forever
 Hello! 
