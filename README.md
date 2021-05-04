@@ -22,3 +22,5 @@ My Stats:
 -------------------------
 
 ![forever's stats](https://github-readme-stats.vercel.app/api?username=mesh&show_icons=true&theme=radical)
+
+![Scythe](https://cdn.discordapp.com/attachments/794092739028975646/839287031191830538/image0.gif)
