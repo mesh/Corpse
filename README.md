@@ -4,6 +4,7 @@
 Hello! 
 --
 I am the Scythe Forums Administator/Developer with [@disk](https://github.com.disk) and [@ender](https://github.com/ender)
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/attachments/794092739028975646/839287031191830538/image0.gif">
 
 Skills:
 --
@@ -23,4 +24,3 @@ My Stats:
 
 ![forever's stats](https://github-readme-stats.vercel.app/api?username=mesh&show_icons=true&theme=radical)
 
-<img align="right" width="100" height="100" src="https://cdn.discordapp.com/attachments/794092739028975646/839287031191830538/image0.gif">
