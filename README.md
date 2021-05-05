@@ -19,7 +19,7 @@ Learning Languages:
 
 Need to contact me?
 --
-Discord: forever#1234
+Discord: forever#0123
 
 My Stats:
 -------------------------
