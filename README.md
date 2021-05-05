@@ -14,7 +14,8 @@ Skills:
 
 Learning Languages:
 --
-* Go | HTML | CSS
+* TS | Vue.js | Nuxt.js | HTML | CSS
+* Full Stack Developer
 
 Need to contact me?
 --
