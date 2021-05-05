@@ -11,11 +11,11 @@ I am the [Scythe Forums](https://scythe.in) Administator/Developer with [@disk](
 Skills:
 --
 * C/C++ | JS
+* Full Stack Developer
 
 Learning Languages:
 --
 * TS | Vue.js | Nuxt.js | HTML | CSS
-* Full Stack Developer
 
 Need to contact me?
 --
