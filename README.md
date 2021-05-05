@@ -1,8 +1,9 @@
+<p align="center">
+  <img width="100" height="100" src="">
+</p>--
+
 ![Views](https://komarev.com/ghpvc/?username=mesh)
 
-
-Hello, I am forever!
---
 I am the [Scythe Forums](https://scythe.in) Administator/Developer with [@disk](https://github.com.disk) and [@ender](https://github.com/ender)
 
 <p align="left">
@@ -27,3 +28,7 @@ My Stats:
 
 ![forever's stats](https://github-readme-stats.vercel.app/api?username=mesh&show_icons=true&theme=radical)
 
+
+<p align="center">
+  <img width="100" height="100" src="https://cdn.discordapp.com/attachments/794092739028975646/839305917212393512/footer.jpg">
+</p>--
