@@ -1,6 +1,4 @@
-<p align="center">
-  <src = ![Views]"(https://komarev.com/ghpvc/?username=mesh)">
-</p>
+![Views]"(https://komarev.com/ghpvc/?username=mesh)"
 
 Hello! I am forever
 --
@@ -21,7 +19,6 @@ Learning Languages:
 Need to contact me?
 --
 Discord: forever#1234
-
 
 My Stats:
 -------------------------
