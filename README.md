@@ -30,5 +30,5 @@ My Stats:
 
 
 <p align="center">
-  <img width="100" height="100" src="https://cdn.discordapp.com/attachments/794092739028975646/839305917212393512/footer.jpg">
+  <src="https://cdn.discordapp.com/attachments/794092739028975646/839305917212393512/footer.jpg">
 </p>--
