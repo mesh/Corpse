@@ -1,9 +1,9 @@
 <p align="center">
-  <img width "50" src="https://cdn.discordapp.com/attachments/794092739028975646/839307023606611968/transparent_header.png">
+  <src = "![Views](https://komarev.com/ghpvc/?username=mesh)">
 </p>
 
-![Views](https://komarev.com/ghpvc/?username=mesh)
-
+Hello! I am forever
+--
 I am the [Scythe Forums](https://scythe.in) Administator/Developer with [@disk](https://github.com.disk) and [@ender](https://github.com/ender)
 
 <p align="left">
@@ -27,8 +27,3 @@ My Stats:
 -------------------------
 
 ![forever's stats](https://github-readme-stats.vercel.app/api?username=mesh&show_icons=true&theme=radical)
-
-
-<p align="center">
-  <img src="">
-</p>--
