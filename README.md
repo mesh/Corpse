@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" height="100" src="">
+  <img src="https://cdn.discordapp.com/attachments/794092739028975646/839307023606611968/transparent_header.png">
 </p>--
 
 ![Views](https://komarev.com/ghpvc/?username=mesh)
@@ -30,5 +30,5 @@ My Stats:
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/794092739028975646/839307023606611968/transparent_header.png">
+  <img src="">
 </p>--
