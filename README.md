@@ -1,6 +1,3 @@
-![head.png](https://raw.githubusercontent.com/mesh/mesh/main/https://cdn.discordapp.com/attachments/794092739028975646/839313795938648074/transparent_header.png)
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mesh" alt="mesh" /> </p>
 
 Hello! I am forever
