@@ -1,5 +1,5 @@
 <p align="center">
-  <img width "400" src="https://cdn.discordapp.com/attachments/794092739028975646/839307023606611968/transparent_header.png">
+  <img width "50" src="https://cdn.discordapp.com/attachments/794092739028975646/839307023606611968/transparent_header.png">
 </p>
 
 ![Views](https://komarev.com/ghpvc/?username=mesh)
