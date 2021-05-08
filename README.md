@@ -1,5 +1,4 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mesh" alt="mesh" /> </p>
-![image](https://user-images.githubusercontent.com/78840478/117532501-79a52080-afad-11eb-8e9f-26fdba770b5f.png)
 
 
 Hello! I am forever
