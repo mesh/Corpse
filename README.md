@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mesh" alt="mesh" /> </p>
-* [Discord](https://https://discord.gg/6JXZP9BgWY)[Embed](https://cdn.rawgit.com/...)
+* [Discord](https://https://discord.gg/6JXZP9BgWY)
 
 Hello! I am forever
 --
