@@ -21,6 +21,9 @@ Need to contact me?
 --
 Discord: forever#0123
 
+<p align="left"> <img src="https://discord.c99.nl/widget/theme-2/755979378231607349.png" /> </p>
+
+
 My Stats:
 -------------------------
 
