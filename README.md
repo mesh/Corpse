@@ -1,4 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mesh" alt="mesh" /> </p>
+<p align="center"> <img src="https://discord.gg/6JXZP9BgWY" alt="Discord" /> </p>
+
 
 Hello! I am forever
 --
