@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mesh" alt="mesh" /> </p>
 
-## Hello! I am hit
+## Hello! I am haunt
 
 I am the [Scythe Forums](https://scythe.in) Administator/Developer with [@disk](https://github.com.disk) and [@ender](https://github.com/ender)
 
@@ -26,13 +26,13 @@ Learning Languages:
 
 Need to contact me?
 --
-Discord: hit#0003
+Discord: haunt#0123
 
 Discord ID: 755979378231607349
 
 <p align="left"> <img src="https://discord.c99.nl/widget/theme-2/755979378231607349.png" /> </p>
 
-[![Discord](https://img.shields.io/badge/-@scythe-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white&link=https://discord.gg/6JXZP9BgWY)](https://discord.gg/6JXZP9BgWY)[![Twitter Badge](https://img.shields.io/badge/-@hitthelegend-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hitthelegend)](https://twitter.com/hitthelegend)[![Instagram Badge](https://img.shields.io/badge/-@hitthelegend-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hitthelegend)
+[![Discord](https://img.shields.io/badge/-@scythe-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white&link=https://discord.gg/6JXZP9BgWY)](https://discord.gg/6JXZP9BgWY)[![Twitter Badge](https://img.shields.io/badge/-@legendhaunt-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/legendhaunt)](https://twitter.com/legendhaunt)[![Instagram Badge](https://img.shields.io/badge/-@legendhaunt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/legendhaunt)
 
 
 <details>
@@ -42,4 +42,4 @@ Discord ID: 755979378231607349
 
 <br >
 
-![hit's stats](https://github-readme-stats.vercel.app/api?username=mesh&show_icons=true&theme=radical)
+![haunt's stats](https://github-readme-stats.vercel.app/api?username=mesh&show_icons=true&theme=radical)
