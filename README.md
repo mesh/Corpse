@@ -32,7 +32,7 @@ Discord ID: 755979378231607349
 
 <p align="left"> <img src="https://discord.c99.nl/widget/theme-2/755979378231607349.png" /> </p>
 
-[![Discord](https://img.shields.io/badge/-@scythe-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white&link=https://discord.gg/6JXZP9BgWY)](https://discord.gg/6JXZP9BgWY)[![Twitter Badge](https://img.shields.io/badge/-@foreverwantt-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/foreverwantt)](https://twitter.com/foreverwantt)[![Instagram Badge](https://img.shields.io/badge/-@foreverwantt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/foreverwantt)
+[![Discord](https://img.shields.io/badge/-@scythe-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white&link=https://discord.gg/6JXZP9BgWY)](https://discord.gg/6JXZP9BgWY)[![Twitter Badge](https://img.shields.io/badge/-@hitthelegend-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hitthelegend)](https://twitter.com/hitthelegend)[![Instagram Badge](https://img.shields.io/badge/-@hitthelegend-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hitthelegend)
 
 
 <details>
