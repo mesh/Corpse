@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mesh" alt="mesh" /> </p>
 
-## Hello! I am forever
+## Hello! I am hit
 
 I am the [Scythe Forums](https://scythe.in) Administator/Developer with [@disk](https://github.com.disk) and [@ender](https://github.com/ender)
 
@@ -26,7 +26,7 @@ Learning Languages:
 
 Need to contact me?
 --
-Discord: forever#0123
+Discord: hit#0003
 
 Discord ID: 755979378231607349
 
@@ -42,4 +42,4 @@ Discord ID: 755979378231607349
 
 <br >
 
-![forever's stats](https://github-readme-stats.vercel.app/api?username=mesh&show_icons=true&theme=radical)
+![hit's stats](https://github-readme-stats.vercel.app/api?username=mesh&show_icons=true&theme=radical)
