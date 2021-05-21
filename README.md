@@ -7,7 +7,7 @@ I am the [Scythe Forums](https://scythe.in) Administator/Developer with [@disk](
 
 Skills:
 --
-[![C/C++ Badge](https://img.shields.io/badge/-C/C++-61DBFB?style=for-the-badge&labelColor=black&logo=C&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![C/C++ Badge](https://img.shields.io/badge/-C/C++-61DBFB?style=for-the-badge&labelColor=black&logo=C&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007aac?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007aac)](#)
 
 Learning Languages:
 --
