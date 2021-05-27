@@ -2,7 +2,7 @@
 
 ## Hello! I am haunt
 
-I am the [Scythe Forums](https://scythe.in) Administator/Developer with [@disk](https://github.com.disk) and [@ender](https://github.com/ender)
+I am the [Scythe Forums](https://scythe.in) Administator/Developer with [@disk](https://github.com/disk) and [@ender](https://github.com/ender)
 
 
 Skills:
@@ -25,9 +25,7 @@ Learning Languages:
 
 Need to contact me?
 --
-Discord: haunt#0123
-
-Discord ID: 755979378231607349
+[Contacts](https://haunt.lol)
 
 <p align="left"> <img src="https://discord.c99.nl/widget/theme-2/755979378231607349.png" /> </p>
 
