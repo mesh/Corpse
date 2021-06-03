@@ -27,7 +27,7 @@ Need to contact me?
 --
 [Contacts](https://haunt.lol)
 
-<p align="left"> <img src="https://discord.c99.nl/widget/theme-2/755979378231607349.png" /> </p>
+<p align="left"> <img src="https://discord.c99.nl/widget/theme-2/585140379632795654.png" /> </p>
 
 [![Discord](https://img.shields.io/badge/-@scythe-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white&link=https://discord.gg/6JXZP9BgWY)](https://discord.gg/6JXZP9BgWY) [![Twitter Badge](https://img.shields.io/badge/-@legendhaunt-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/legendhaunt)](https://twitter.com/legendhaunt) [![Instagram Badge](https://img.shields.io/badge/-@legendhaunt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/legendhaunt)
 
