@@ -2,25 +2,36 @@
 
 ## Hello! I am haunt
 
-I am the [Scythe Forums](https://scythe.in) Administator/Developer with [@disk](https://github.com/disk) and [@ender](https://github.com/ender)
+I am the Socials Administator/Developer with [@disk](https://github.com/disk) and [@ender](https://github.com/ender)
 
 
 Skills:
 --
-[![C/C++ Badge](https://img.shields.io/badge/-C/C++-61DBFB?style=for-the-badge&labelColor=black&logo=C&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007aac?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007aac)](#)
 
-Learning Languages:
---
+Frontend: 
+<p   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/css/css.png" />
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+Languages:
+  
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+Databases:
 
-<br />
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+
 <br />
 
 Need to contact me?
@@ -29,7 +40,7 @@ Need to contact me?
 
 <p align="left"> <img src="https://discord.c99.nl/widget/theme-2/585140379632795654.png" /> </p>
 
-[![Discord](https://img.shields.io/badge/-@scythe-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white&link=https://discord.gg/6JXZP9BgWY)](https://discord.gg/6JXZP9BgWY) [![Twitter Badge](https://img.shields.io/badge/-@legendhaunt-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/legendhaunt)](https://twitter.com/legendhaunt) [![Instagram Badge](https://img.shields.io/badge/-@legendhaunt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/legendhaunt)
+[![Discord](https://img.shields.io/badge/-@socials-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white&link=https://discord.gg/DMqDZ3yj3q)](https://discord.gg/6JXZP9BgWY) [![Twitter Badge](https://img.shields.io/badge/-@legendhaunt-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/legendhaunt)](https://twitter.com/legendhaunt) [![Instagram Badge](https://img.shields.io/badge/-@legendhaunt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/legendhaunt)
 
 
 <details>
