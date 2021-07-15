@@ -38,16 +38,10 @@ Need to contact me?
 
 <p align="left"> <img src="https://discord.c99.nl/widget/theme-2/583979585910079488.png" /> </p>
 
-[![Discord](https://img.shields.io/badge/-@socials-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white&link=https://discord.gg/DMqDZ3yj3q)](https://discord.gg/6JXZP9BgWY) [![Twitter Badge](https://img.shields.io/badge/-@legendhaunt-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/legendhaunt)](https://twitter.com/legendhaunt) [![Instagram Badge](https://img.shields.io/badge/-@legendhaunt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/legendhaunt)
+[![Discord](https://img.shields.io/badge/-@socials-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white&link=https://discord.gg/DMqDZ3yj3q)](https://discord.gg/6JXZP9BgWY) [![Twitter Badge](https://img.shields.io/badge/-@legendhaunt-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/legendhaunt)](https://twitter.com/legendhaunt) [![Instagram Badge](https://img.shields.io/badge/-@legendhaunt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/legendhaunt) [![Telegram Badge](https://img.shields.io/badge/-@legendhaunt-0088cc?style=flat&labelColor=0088cc&logo=telegram&logoColor=white)](https://t.me/legendhaunt) [![Kik Badge](https://img.shields.io/badge/-@legendhaunt-26beff?style=flat&labelColor=5dcd11&logo=kik&logoColor=white)](https://kik.me/legendhaunt)
 
+# Stats
 
-<details>
-<summary>
-  Stats
-</summary>
-
-<br >
 
 ![haunt's stats](https://github-readme-stats.vercel.app/api?username=mesh&show_icons=true&theme=radical)
 
-![haunt's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesh&layout=compact&theme=radical)
